@@ -8,6 +8,8 @@
   
 </div>
 
+
+
 <!--
 **i-n-sinitsin/i-n-sinitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-n-sinitsin&repo=svg2vd)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://komarev.com/ghpvc/?username=i-n-sinitsin&style=flat-square&color=blue" alt=""/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
