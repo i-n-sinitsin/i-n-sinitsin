@@ -1,6 +1,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=i-n-sinitsin&theme=dark&border_radius=20)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-n-sinitsin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **i-n-sinitsin/i-n-sinitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
