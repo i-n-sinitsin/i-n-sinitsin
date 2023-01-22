@@ -1,4 +1,6 @@
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=i-n-sinitsin&theme=dark&border_radius=20)](https://git.io/streak-stats)
+
 <!--
 **i-n-sinitsin/i-n-sinitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
