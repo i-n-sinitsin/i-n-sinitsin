@@ -1,10 +1,10 @@
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=i-n-sinitsin&theme=dark&border_radius=10)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-n-sinitsin&show_icons=true&theme=dark) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=i-n-sinitsin&theme=dark&border_radius=10)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=i-n-sinitsin&show_icons=true&theme=dark) |
 |--|--|
 
 <div id="header" align="center">
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-n-sinitsin&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i-n-sinitsin&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
