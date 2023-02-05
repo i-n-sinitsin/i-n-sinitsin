@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
   
- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i-n-sinitsin&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=i-n-sinitsin&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
