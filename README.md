@@ -1,5 +1,5 @@
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=i-n-sinitsin&theme=dark&border_radius=10)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=i-n-sinitsin&show_icons=true&theme=dark) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=i-n-sinitsin&theme=dark&border_radius=10)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-n-sinitsin&show_icons=true&theme=dark) |
 |--|--|
 
 <div id="header" align="center">
